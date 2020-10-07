@@ -1,0 +1,6 @@
+.env
+.idea/
+composer.phar
+vendor/
+.build/
+data/subscriptions.json
