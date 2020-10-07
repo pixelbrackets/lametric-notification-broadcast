@@ -1,0 +1,12 @@
+{
+    "name": "pixelbrackets/lametric-notification-broadcast",
+    "description": "Receive a message and forward it to multiple LaMetric devices in your network",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "elementaryframework/water-pipe": "^1.4",
+        "pixelbrackets/html5-mini-template": "^2.0",
+        "guzzlehttp/guzzle": "^7.1",
+        "ext-json": "*"
+    }
+}
