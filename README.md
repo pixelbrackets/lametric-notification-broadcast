@@ -33,7 +33,7 @@ Packagist Entry https://packagist.org/packages/pixelbrackets/lametric-notificati
 
 - Point your webserver to the `web` directory
 - Copy `data/subscriptions.template.json` and rename it to
-`data/subscriptions.json`.
+  `data/subscriptions.json`.
 
 ## Source
 
@@ -56,7 +56,8 @@ Mirror https://github.com/pixelbrackets/lametric-notification-broadcast/
 ### Options
 
 - JSON body
-  - `message` – string – Text that will be displayed - Keep it short, if it is too long it will scroll
+  - `message` – string – Text that will be displayed - Keep it short,
+    if it is too long it will scroll
   - `icon` (optional) – string – ID of an icon in the
     [LaMetric Icon Gallery](https://developer.lametric.com/icons)
 
